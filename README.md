@@ -1,5 +1,4 @@
-
-$$ \int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi} $$
+$$ \oint\limits_{\gamma}\frac{f(\gamma)}{\gamma - z}\mathrm{d}\gamma = 2\pi if(z)$$
 
 
 
