@@ -1,4 +1,4 @@
-$$ \oint\limits_{\gamma}\frac{f(\gamma)}{\gamma - z}\mathrm{d}\gamma = 2\pi if(z)$$
+$$ \oint\frac{f(\gamma)}{\gamma - z}\mathrm{d}\gamma = 2\pi if(z)$$
 
 
 
